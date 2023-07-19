@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+   
+}
+
+h1:hover {
+    transform: scale(1.2);
+  
+  }
+
+body{
+    background: rgba(34, 13, 13, 0.945);
+    font: normal 15pt arial;
+}
