@@ -1,16 +1,32 @@
+body{
+    background: pink;
+}
+
 h1{
     text-align: center;
     color: white;
-    text-shadow: 5px 5px 5px black;
-   
+    text-shadow: 2px 2px 2px black;
 }
 
-h1:hover {
-    transform: scale(1.2);
-  
-  }
 
-body{
-    background: rgba(34, 13, 13, 0.945);
-    font: normal 15pt arial;
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0.363);
+    white-space: normal;
+        
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    font: italic 10pt arial;
 }
